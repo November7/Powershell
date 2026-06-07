@@ -1,9 +1,9 @@
-# Rename-FilesByDate
 [![Language-English-blue](https://img.shields.io/badge/Language-English-blue)](#eng)
 [![Language-Polski-red](https://img.shields.io/badge/Language-Polski-red)](#pl)
 
 ## ENG
 
+# Rename-FilesByDate
 This script renames files in a selected folder using each file's last modification date.
 
 ### What the command does
@@ -44,7 +44,11 @@ Rename-FilesByDate -Folder "D:\Path\To\Folder"
 - The script processes files only (no subfolders).
 - Names are based on modification date, not creation date.
 
-## PL
+# PL
+---
+
+
+# Rename-FilesByDate
 
 Skrypt zmienia nazwy plików w podanym katalogu na format oparty o datę modyfikacji.
 
