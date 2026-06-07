@@ -3,7 +3,7 @@
 
 ## ENG
 
-# Rename-FilesByDate
+## Rename-FilesByDate
 This script renames files in a selected folder using each file's last modification date.
 
 ### What the command does
@@ -44,11 +44,9 @@ Rename-FilesByDate -Folder "D:\Path\To\Folder"
 - The script processes files only (no subfolders).
 - Names are based on modification date, not creation date.
 
-# PL
----
+## PL
 
-
-# Rename-FilesByDate
+## Rename-FilesByDate
 
 Skrypt zmienia nazwy plików w podanym katalogu na format oparty o datę modyfikacji.
 
