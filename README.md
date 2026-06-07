@@ -1,6 +1,6 @@
 # Rename-FilesByDate
-
-[![Language-English-success](https://img.shields.io/badge/Language-ENG-0B5FFF?style=for-the-badge)](#eng) [![J%C4%99zyk-Polski-red](https://img.shields.io/badge/Language-PL-E11D48?style=for-the-badge)](#pl)
+[![Language-English-success](https://img.shields.io/badge/Language-English-success)](#eng)
+[![J%C4%99zyk-Polski-red](https://img.shields.io/badge/Language-Polski-red)](#pl)
 
 ## ENG
 
